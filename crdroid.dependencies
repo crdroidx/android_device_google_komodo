@@ -1,0 +1,11 @@
+[
+  {
+    "repository": "crdroidandroid/android_device_google_caimito",
+    "target_path": "device/google/caimito"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_google_komodo",
+    "target_path": "vendor/google/komodo",
+    "branch": "lineage-23.1"
+  }
+]
